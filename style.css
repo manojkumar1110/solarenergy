@@ -1,0 +1,316 @@
+.html,body{
+    padding: 0px;
+    margin: 0px;
+    overflow-x: 0px;
+}
+.container{
+    width: 100%;
+    background-image: url(assets/electric-farm-with-panels-producing-clean-ecologic-energy5-min.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 15%;
+    padding-bottom: 10%;
+}
+.content{
+    text-align: center;
+}
+.contenth{
+    color: white;
+    font-size: 60px;
+}
+.contentp{
+    color: white;
+    font-size: 20px;
+}
+.contentb{
+    margin-top: 5%;
+    padding: 1%;
+    font-size: 35px;
+    color: black;
+    border-radius: 10px;
+    border-style: none;
+    background-color: white;
+}
+.contentb:hover{
+    background-color: black;
+    color: white;
+}
+.container1{
+    width: 100%;
+    background-color: #fff;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.content1{
+    text-align: center;
+    width: 30%;
+    /* background-color: black; */
+    display: inline-block;
+}
+.content1p{
+    color: black;
+    text-align: center;
+}
+.content2{
+    width: 30%;
+}
+.center{
+    text-align: center;
+}
+.container2{
+    padding-top: 5%;
+    padding-bottom: 7%;
+    width: 100%;
+    background-image: url(assets/26193-min.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* background-position-y: 150px; */
+}
+.content2h{
+    text-align: center;
+    color: white;
+    font-size: 60px;
+}
+.content2{
+    width: 30%;
+    background-color: #fff;
+    display: inline-block;
+    text-align: left;
+    padding: 15px;
+}
+.content2p{
+    font-size: 20px;
+}
+.content2p:hover{
+    color: #CBBC70;
+}
+.container3{
+    width: 100%;
+    background-color: white;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.content3h{
+    font-size: 60px;
+}
+.content3p{
+    font-size: 20px;
+    padding-bottom: 2%;
+}
+.content3{
+    width: 30%;
+    display: inline-block;
+}
+.img:hover{
+    opacity: 0.5;
+}
+.container4{
+    width: 100%;
+    background-color: white;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.content4h{
+    font-size: 60px;
+}
+.content4p{
+    font-size: 20px;
+}
+.content4{
+    width: 25%;
+    display: inline-block;
+    background-image: url(assets/443.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 10px;
+  
+}
+.content4h1{
+    color: white;
+    padding-top: 80%;
+   
+}
+.contenth4{
+    color: white;
+}
+.content41{
+    width: 25%;
+    display: inline-block;
+    background-image:url(assets/45435.jpg) ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 10px;
+    margin-left: 17.5px;
+}
+.content42{
+    width: 25%;
+    display: inline-block;
+    background-image: url(assets/32423.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 10px;
+    margin-left: 17.5px;
+}
+.content5{
+    width: 25%;
+    display: inline-block;
+    background-image: url(assets/656.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 10px;
+}
+.content51{
+    width: 25%;
+    display: inline-block;
+    background-image: url(assets/5453.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 10px;
+    margin-left: 17.5px;
+}
+.content52{
+    width: 25%;
+    display: inline-block;
+    background-image: url(assets/3d-house-with-solar-pannels\ \(1\).jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 10px;
+    margin-left: 17.5px;
+}
+.content5:hover{
+    opacity: 0.5;
+}
+.content51:hover{
+    opacity: 0.5;
+}
+.content52:hover{
+    opacity: 0.5;
+}
+.content4:hover{
+    opacity: 0.5;
+}
+.content41:hover{
+    opacity: 0.5;
+}
+.content42:hover{
+    opacity: 0.5;
+}
+.content4h1:hover{
+    color: black;
+}
+.contenth4:hover{
+    color: black;
+}
+.wrapper{
+    width: 100%;
+    background-color:white;
+    padding-top: 5%;
+}
+.inner{
+    width: 40%;
+    display: inline-block;
+}
+.form{
+    display: inline-block;
+    width: 40%;
+    /* background-color: black; */
+    padding: 20px;
+}
+input,.wew{
+    /* text-align: center; */
+    font-family: arial;
+    color: #333;
+    font-size: 14px;
+}
+.form{
+    position: relative;
+    bottom: 50px;
+    left: 100px;
+}
+.form-group input{
+    width: 40%;
+}
+.form-group input:first-child{
+    margin-right: 25px;
+}
+.form-wrapper{
+    position: relative;
+}
+.form-control{
+    border:1px solid #333;
+    border:none;
+    border-bottom: 1px solid #333;
+    display: block;
+    width: 40%;
+    height: 30px;
+    padding-right: 0;
+    margin-bottom: 25px;
+}
+.wew{
+    border:none;
+    width:164px;
+    height: 51px;
+    /* margin: auto; */
+    margin-top: 40px;
+    cursor:pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #AE9721;
+    font-weight: 700;
+}
+.wew:hover{
+    background-color: #333;
+    color: white;
+}
+.footer{
+    width: 100%;
+    background-color: #333;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+.header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 20px 20px;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    z-index: 100;
+}
+.solar{
+    color: #fff;
+    font-size: 32px;
+    text-decoration: none;
+    font-weight: 700;
+}
+.navbar a{
+    position: relative;
+    font-size: 18px;
+    color: #fff;
+    font-weight: 500;
+    text-decoration: none;
+    margin-right: 40px;
+}
+.navbar a::before{
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 0;
+    height: 2px;
+    background-color: #fff;
+    transition: .3s;
+}
+.navbar a:hover::before{
+    width: 100%;
+
+}
+.navbar a:hover{
+    color: #CBBC70;
+}
+.header a:hover{
+    color: #AE9721;
+}
